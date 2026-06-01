@@ -1,4 +1,4 @@
-$# Health Insurance Fraud Detection and Risk Analytics System
+# Health Insurance Fraud Detection and Risk Analytics System
 
 ## Overview
 
