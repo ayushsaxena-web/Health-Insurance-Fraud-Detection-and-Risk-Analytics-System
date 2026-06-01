@@ -1,4 +1,4 @@
-# Health Insurance Fraud Detection and Risk Analytics System
+$# Health Insurance Fraud Detection and Risk Analytics System
 
 ## Overview
 
@@ -8,7 +8,7 @@ An end-to-end healthcare insurance fraud detection project using SQL, Python, St
 
 
 Enhanced Model
-![Dashboard](/Users/ayushh.h/Downloads/fraud_detection_dashboard.png)
+![Dashboard](fraud_detection_dashboard.png)
 
 
 ## Business Problem
