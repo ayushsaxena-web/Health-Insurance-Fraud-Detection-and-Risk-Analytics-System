@@ -90,6 +90,38 @@ Interactive dashboards were developed for:
 * Executive KPIs
 * Simulation Outcomes
 
+Key Insights:-
+Fraud Detection Insights
+Fraudulent claims account for approximately 10% of total claims, indicating a significant financial risk to insurers.
+Claim Amount emerged as the strongest predictor of fraud, contributing over 90% of model importance in the baseline model.
+Feature engineering and SMOTE significantly improved fraud detection performance, increasing fraud recall from 7% to 36%.
+High-value claims demonstrated a greater likelihood of being associated with fraudulent activity.
+XGBoost outperformed other models and achieved the best balance between fraud identification and overall accuracy.
+
+Financial Insights:-
+Total estimated fraud-related loss: $75.1 Million
+Potential recoverable amount through targeted interventions: $32.2 Million
+Implementing enhanced review procedures for high-value claims could reduce fraud losses by approximately 42.8%.
+A relatively small proportion of suspicious claims contributes disproportionately to overall fraud losses.
+
+Managerial Recommendations:-
+1. Implement Risk-Based Claim Review
+Introduce mandatory manual review for claims above $75,000 and claims flagged as high-risk by the fraud detection model.
+2. Deploy Fraud Risk Scoring
+Integrate the machine learning model into the claims workflow to assign a fraud risk score before claim approval, enabling early detection of suspicious claims.
+3. Strengthen Monitoring of High-Risk Providers
+Continuously monitor providers with elevated fraud rates, unusual billing patterns, or repeated high-value claims.
+4. Establish Automated Fraud Alerts
+Develop automated alert systems for:
+High-value claims
+Unusual submission patterns
+High-risk provider activity
+Repeated suspicious claim behavior
+
+Business Impact:-
+This project demonstrates how healthcare insurers can leverage machine learning, risk analytics, and simulation modeling to proactively identify fraudulent claims, reduce financial leakage, improve operational efficiency, and support data-driven fraud management decision
+
+
 ## Technologies Used
 
 Python • SQL • Pandas • NumPy • Scikit-Learn • XGBoost • SMOTE • Plotly • Statistics • Machine Learning • Healthcare Analytics • Fraud Analytics • Risk Analytics
