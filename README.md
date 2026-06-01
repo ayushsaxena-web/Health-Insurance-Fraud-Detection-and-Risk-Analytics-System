@@ -4,6 +4,13 @@
 
 An end-to-end healthcare insurance fraud detection project using SQL, Python, Statistics, Machine Learning, XGBoost, SMOTE, feature engineering, simulation modeling, and interactive dashboards to identify fraudulent claims, quantify financial risk, and support data-driven decision-making.
 
+## Dashboard Preview
+
+
+Enhanced Model
+![Dashboard](/Users/ayushh.h/Downloads/fraud_detection_dashboard.png)
+
+
 ## Business Problem
 
 Healthcare insurers face significant financial losses due to fraudulent claims. This project aims to detect suspicious claims, assess risk, estimate financial impact, and recommend fraud prevention strategies.
